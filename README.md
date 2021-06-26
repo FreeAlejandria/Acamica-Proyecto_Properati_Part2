@@ -1,1 +1,1 @@
-# Acamica-Proyecto4_Properati
+-  Todos los dataset necesarios estan en este repositorio.
